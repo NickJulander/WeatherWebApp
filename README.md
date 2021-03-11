@@ -16,3 +16,8 @@ weather api:
 
 DB:
 MySQL
+
+
+have a refresh button
+everytime its clicked current weather gets written to weather table
+new weather is populated with call to api
