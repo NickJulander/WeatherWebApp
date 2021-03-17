@@ -1,58 +1,13 @@
-# full stack application
-To run:
-cd into src directory
-type 
-  [npm start app.js]
- in a new tab type
-  [node dataapp.js]
-  make sure a server is running on ort 
+**To run:
 
-weather app, that stores weather in mysql DB and has option to search date for weather on that date
+1. cd into src directory
 
-Front - end:
-html
-css
-JavaScript
+2. type 
+    [npm start app.js]
+    
+3. In a new tab type
+    [node dataapp.js]
 
+Created using ReactJS, ExpressJS, HTML, CSS, and SQL.
 
-Back - end:
-ReactJS
-weather api:
-  https://rapidapi.com/community/api/open-weather-map
-
-DB:
-MySQL
-
-
-make refresh component
-make city block component
-
-then we just gotta handle the data and all that
-
-sooooooo
-we need to make a node js file that will take the insert, get, fetch requests and act upon the database
-
-
-
-
-
-todo: 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Weather gained using the Open Weather Map API (https://rapidapi.com/community/api/open-weather-map).
